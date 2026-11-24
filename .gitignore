@@ -1,0 +1,19 @@
+# Maven build files
+/target/
+
+# Java compiled files
+*.class
+
+# NetBeans private files
+/nbproject/private/
+
+# IDE settings
+.idea/
+.vscode/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Private database credentials
+/db.properties
